@@ -1,0 +1,6 @@
+--2020-09-13 19:52:47--  https://www.google.com/search?q=star+wars
+Resolving www.google.com (www.google.com)... 172.217.162.100, 2800:3f0:4001:806::2004
+Connecting to www.google.com (www.google.com)|172.217.162.100|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-09-13 19:52:49 ERROR 403: Forbidden.
+
